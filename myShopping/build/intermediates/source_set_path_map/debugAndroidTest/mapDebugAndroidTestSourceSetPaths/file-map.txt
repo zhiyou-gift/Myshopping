@@ -1,0 +1,6 @@
+com.example.myshopping.test.myShopping-core-1.5.0-0 C:\Users\知有\.gradle\caches\transforms-4\23cb090c6c47f2d040f3737717221276\transformed\core-1.5.0\res
+com.example.myshopping.test.myShopping-annotation-experimental-1.4.1-1 C:\Users\知有\.gradle\caches\transforms-4\a25ac3db268476be7bf5fad37775f418\transformed\annotation-experimental-1.4.1\res
+com.example.myshopping.test.myShopping-androidTest-2 F:\MyApplication\myShopping\build\generated\res\resValues\androidTest\debug
+com.example.myshopping.test.myShopping-mergeDebugAndroidTestResources-3 F:\MyApplication\myShopping\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.myshopping.test.myShopping-mergeDebugAndroidTestResources-4 F:\MyApplication\myShopping\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.myshopping.test.myShopping-debugAndroidTest-5 F:\MyApplication\myShopping\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

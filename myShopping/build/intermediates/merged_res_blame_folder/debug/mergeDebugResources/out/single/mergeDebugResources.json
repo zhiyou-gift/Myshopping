@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable-xhdpi_rongyao.jpg.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable-xhdpi\\rongyao.jpg"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable-xhdpi_ting1.jpeg.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable-xhdpi\\ting1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable-xhdpi_cart.png.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable-xhdpi\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\layout_item_cart.xml.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable_shape_edit_focus.xml.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable\\shape_edit_focus.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable_shape_edit_normal.xml.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable\\shape_edit_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable_shape_oval_red.xml.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable\\shape_oval_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\layout_item_goods.xml.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\layout\\item_goods.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\layout_activity_shopping_channel.xml.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\layout\\activity_shopping_channel.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable-xhdpi_oppo.jpg.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable-xhdpi\\oppo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable-xhdpi_huawei.jpg.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable-xhdpi\\huawei.jpg"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable-xhdpi_xiaomi15.jpg.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable-xhdpi\\xiaomi15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable-xhdpi_check_unchoose.png.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable-xhdpi\\check_unchoose.png"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myshopping.myShopping-debug-32:/layout_activity_shopping_detail.xml.flat",
+        "source": "com.example.myshopping.myShopping-main-34:/layout/activity_shopping_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable_checkbox_selector.xml.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable\\checkbox_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable-xhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\layout_title_shopping.xml.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\layout\\title_shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\layout_activity_shopping_cart.xml.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\layout\\activity_shopping_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable-xhdpi_ting2.jpg.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable-xhdpi\\ting2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable-xhdpi_iphone.jpg.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable-xhdpi\\iphone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable-xhdpi_xiaomi.jpg.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable-xhdpi\\xiaomi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable-xhdpi_vivo.jpg.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable-xhdpi\\vivo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable_editext_selector.xml.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable\\editext_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\layout_activity_my_application.xml.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\layout\\activity_my_application.xml"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable-xhdpi_check_choose.png.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable-xhdpi\\check_choose.png"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable-xhdpi_iphone16.jpg.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable-xhdpi\\iphone16.jpg"
+    },
+    {
+        "merged": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-debug-32:\\drawable-xhdpi_iphone16pm.jpg.flat",
+        "source": "C:\\Users\\知有\\.gradle\\daemon\\8.7\\com.example.myshopping.myShopping-main-34:\\drawable-xhdpi\\iphone16pm.jpg"
+    }
+]

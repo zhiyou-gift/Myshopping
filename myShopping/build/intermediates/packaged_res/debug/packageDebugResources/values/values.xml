@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="grey">#cccccc</color>
+    <color name="orange">#ffffdd</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#ff0000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">chapter06</string>
+    <string name="confirm_new_password">确认新密码：</string>
+    <string name="done">确     定</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="get_verifycode">获取验证码</string>
+    <string name="input_new_password">输入新密码：</string>
+    <string name="input_new_password_again">请再次输入新密码</string>
+    <string name="input_new_password_hint">请输入新密码</string>
+    <string name="input_password">请输入密码</string>
+    <string name="input_phone_number">请输入手机号码</string>
+    <string name="input_verifycode">请输入验证码</string>
+    <string name="login">登      录</string>
+    <string name="login_by_password">密码登录</string>
+    <string name="login_by_verifycode">验证码登录</string>
+    <string name="login_password">登录密码：</string>
+    <string name="phone_number">手机号码：</string>
+    <string name="remember_password">记住密码</string>
+    <string name="verifycode">    验证码：</string>
+    <string name="verifycode2">        验证码：</string>
+    <style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
